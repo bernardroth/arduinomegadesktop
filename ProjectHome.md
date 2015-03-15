@@ -1,0 +1,1 @@
+Place JPG in /System/Library/CoreServices
